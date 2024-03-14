@@ -22,7 +22,7 @@ Make sure you have the following installed on your machine:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/ershashankgit/ToDo-list.git
+   git clone https://github.com/shashankagarwalgit/ToDo-list.git
 
 2.  Run the command on terminal
     ```shell
@@ -30,4 +30,4 @@ Make sure you have the following installed on your machine:
 
 ## Author
 
-  <b>Created By <a href="https://about.shashank.my.id" target="_blank">Shashank Agarwal</a></b>
+  <b>Created By <a href="https://shashankag.web.app" target="_blank">Shashank Agarwal</a></b>
